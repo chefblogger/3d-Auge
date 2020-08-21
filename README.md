@@ -1,9 +1,4 @@
 # 3d-Auge
 JS &amp; GLTFLoader
 
-![Image of Yaktocat]
-(https://octodex.github.com/images/yaktocat.png)
-
-![https://octodex.github.com/images/yaktocat.png]
-
-https://octodex.github.com/images/yaktocat.png
+ist ein cooler test mit dem GLTFLoader von Javascript und einem 3D Objekt
